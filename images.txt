@@ -1,3 +1,4 @@
 ghcr.io/open-webui/open-webui:main
 paddlepaddle/paddle
 ghcr.io/cinnamon/kotaemon:latest
+https://github.com/cas-bigdatalab/PiFlowAI.git
